@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Retirement home residents displaced, storm cleanup begins in parts of southwestern Ontario | CBC News",
+            "description": "For the second straight week, a vicious thunderstorm has caused widespread damage across areas of southwestern Ontario. The focus of the weather's fury this time was on southern Essex County.",
+            "url": "http://www.cbc.ca/news/canada/windsor/storm-cleanup-underway-southwestern-ontario-1.6919638",
+            "urlToImage": "https://i.cbc.ca/1.6919641.1690463608!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tree-falls-into-kingsville-house.jpg",
+            "publishedAt": "2023-07-27T14:07:24.1447374Z",
+            "content": "Thousands of people are still without electricity this morning, in an area stretching from Harrow, Ont., in Essex County, to Highgate, Ont., on the east side of Chatham-Kent.\r\nFor the second straight… [+3789 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Kyla Mandel",
+            "title": "It's 'Extremely Likely' This July Will Be the Hottest Month Ever",
+            "description": "“The extreme weather which has affected many millions of people in July is unfortunately the harsh reality of climate change.\"",
+            "url": "http://time.com/6298508/hottest-july-ever-recorded/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2023/07/greece-wildfire-heat-wave-climate-change.jpg?quality=85",
+            "publishedAt": "2023-07-27T13:53:44Z",
+            "content": "July isn't even over yet and a group of scientists are saying its extremely likely, it will be the hottest month ever recorded. That's according to the World Meteorological Organization (WMO) and the… [+2257 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Lawrence Ostlere",
+            "title": "Ashes 2023 live: England v Australia fifth Test score and weather at the Oval",
+            "description": "Australia may have retained the Ashes urn but England can still draw the series and deny their rivals a historic first series win on English soil since 2001",
+            "url": "http://www.independent.co.uk/sport/cricket/ashes-score-england-australia-cricket-live-b2382786.html",
+            "urlToImage": "https://static.independent.co.uk/2023/07/27/11/2023-07-27T100543Z_475546204_UP1EJ7R0S1H64_RTRMADP_3_CRICKET-TEST-ENG-AUS.JPG?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-07-27T10:44:23Z",
+            "content": "England are bidding to level the series and deny Australia their first Ashes victory overseas for more than 20 years, as the fifth and final Test begins at The Oval today. \r\nAustralia may have alread… [+5448 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "The Independent",
+            "title": "UK's 40C summer of 2022 'will seem cool' as extreme weather events become frequent, Met Office warns - The Independent",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL2NsaW1hdGUtY2hhbmdlL25ld3MvbWV0LW9mZmljZS1jbGltYXRlLWNoYW5nZS1yZXBvcnQtYjIzODIwNzEuaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-27T08:21:05+00:00",
+            "content": null
+        }
+    ]
+}
